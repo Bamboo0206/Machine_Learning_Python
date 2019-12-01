@@ -1,0 +1,1 @@
+softmax.py 手动实现单隐层神经网络的forward propagation 和 backward propagation，输出层使用的是softmax
